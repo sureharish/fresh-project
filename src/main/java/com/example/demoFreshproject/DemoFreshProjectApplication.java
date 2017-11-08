@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoFreshProjectApplication {
 
 	public static void main(String[] args) {
+		System.out.println("making changes in the github"):
 		SpringApplication.run(DemoFreshProjectApplication.class, args);
 	}
 }
